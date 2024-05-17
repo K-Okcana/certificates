@@ -35,6 +35,8 @@
 
 [Тестирование ПО с нуля. Теория + Практика](stepik/stepik-certificate-171826-d999571.pdf)
 
+[Postman-ниндзя: c нуля до автотестов](stepik/stepik-certificate-198019-30f2f0a.pdf)
+
 ## Surf 
 [Сертификат об окончании летней школы Surf](certificate_surf.pdf)
 
